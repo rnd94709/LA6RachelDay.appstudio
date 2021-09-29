@@ -1,3 +1,4 @@
+/*
 let members = ["Mary","Sam","Joey","Paul","Mike","Char","Jenny","Kennedy","Kaden","Kurt","Anne"]
 let user = ""
 
@@ -13,5 +14,4 @@ else {
   }
   
 console.log(members)
-
-// how do we get the user input to push to the existing array?
+*/
