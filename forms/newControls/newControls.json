@@ -2,7 +2,7 @@
   "!type": "Form",
   "HTML": null,
   "attributes": "",
-  "background": "",
+  "background": "green",
   "backgroundimage": "",
   "borderColor": "",
   "borderStyle": "",
@@ -14,27 +14,45 @@
       "!type": "External",
       "file": [
         "forms",
-        "membership",
+        "newControls",
         "Elements",
-        "inptName.json"
+        "Dropdown1.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "membership",
+        "newControls",
         "Elements",
-        "btnSubmitName.json"
+        "Hamburger1.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "membership",
+        "newControls",
         "Elements",
-        "lblUser.json"
+        "Slider1.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "newControls",
+        "Elements",
+        "Label1.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "newControls",
+        "Elements",
+        "Checkbox1.json"
       ]
     }
   ],
@@ -43,8 +61,8 @@
   "designWidth": 0,
   "expanded_pmp": null,
   "fullScreen": "true",
-  "height": 460,
-  "id": "membership",
+  "height": "300",
+  "id": "newControls",
   "language": "JavaScript",
   "left": "0",
   "locked": false,
@@ -57,11 +75,9 @@
   "parentForm": "",
   "position": "absolute",
   "script": null,
-  "scroll_options": "mouseWheel:true, bounce:true, zoom:false",
-  "scrolling": "false",
   "setFocusID": "",
   "style": "",
   "theme": "",
   "top": "0",
-  "width": 320
+  "width": "870"
 }
